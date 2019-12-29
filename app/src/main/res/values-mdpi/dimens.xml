@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="word_size">23sp</dimen>
+    <dimen name="word_meaning_size">12sp</dimen>
+
+    <dimen name="search_result_word_size">23sp</dimen>
+    <dimen name="search_result_meaning_size">12sp</dimen>
+
+    <dimen name="search_item_word_name">14sp</dimen>
+    <dimen name="search_item_part">12sp</dimen>
+
+    <dimen name="about_dialog_title">23sp</dimen>
+    <dimen name="about_dialog_subject">12sp</dimen>
+</resources>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="window_background">#ffffff</color>
+
+    <color name="my_primary">#CDDC39</color>
+    <color name="my_primary_dark">#AFB42B</color>
+    <color name="my_primary_light">#F0F4C3</color>
+    <color name="my_accent">#4CAF50</color>
+    <color name="my_primary_text">#212121</color>
+    <color name="my_secondary_text">#727272</color>
+    <color name="my_icons">#212121</color>
+    <color name="my_divider">#B6B6B6</color>
+
+    <color name="tab_indicator_color">#F8F8FF</color>
+    <color name="gosh_while">#F8F8FF</color>
+
+    <color name="deep_pink">#7D053F</color>
+
+    <color name="lemon_chiffon">#FFF8C6</color>
+    <color name="lemon_chiffon2">#ECE5B6</color>
+
+    <color name="grey30">#413839</color>
+    <color name="grey27">#382D2C</color>
+
+    <color name="plum">#DDA0DD</color>
+    <color name="plum1">#FFBBFF</color>
+    <color name="plum2">#EEAEEE</color>
+    <color name="plum3">#CD96CD</color>
+
+    <color name="orchid1">#FF83FA</color>
+    <color name="medium_orchid1">#E066FF</color>
+
+
+
+    <color name="indian_red">#8B3A3A</color>
+
+    <color name="salmon3">#CD7054</color>
+    <color name="dark_salmon">#E18B6B</color>
+
+
+    <color name="light_salmon3">#CD8162</color>
+    <color name="light_salmon1">#FFA07A</color>
+    <color name="orange4">#8B5A00</color>
+    <color name="maroon">#B03060</color>
+    <color name="tan3">#CD853F</color>
+    <color name="tan1">#FFA54F</color>
+    <color name="light_coral">#F08080</color>
+
+    <color name="pink">#FFC0CB</color>
+    <color name="light_pink">#FFB6C1</color>
+
+    <color name="pale_violet_red4">#8B475D</color>
+    <color name="pale_violet_red1">#FF82AB</color>
+    <color name="pale_violet_red3">#C25A7C</color>
+
+
+    <color name="sienna3">#CD6839</color>
+    <color name="misty_rose1">#FFE4E1</color>
+    <color name="rosy_brown1">#FFC1C1</color>
+
+    <color name="light_blue4">#5E767E</color>
+    <color name="light_sky_blue4">#566D7E</color>
+
+    <color name="dark_slate_gray">#2F4F4F</color>
+    <color name="dark_slate_gray4">#528B8B</color>
+
+    <color name="dim_grey">#463E41</color>
+    <color name="slate_grey4">#616D7E</color>
+    <color name="light_slate_grey">#6D7B8D</color>
+    <color name="lavendar_blush2">#EBDDE2</color>
+    <color name="lavendar_blush">#FDEEF4</color>
+    <color name="sea_green">#43CD80</color>
+    <color name="green">#008B00</color>
+
+    <color name="ivory_2">#EEEEE0</color>
+
+</resources>
+

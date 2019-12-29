@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "905598828607",
+    "firebase_url": "https://gre-word-firebase.firebaseio.com",
+    "project_id": "gre-word-firebase",
+    "storage_bucket": "gre-word-firebase.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:905598828607:android:a72debde01904377",
+        "android_client_info": {
+          "package_name": "com.learnyourself.grewords"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "905598828607-7eh611mve27khmk19gmvoltevia6r1j1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM9evhvethxr1ochvRCVjZw5MVevVsSHo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

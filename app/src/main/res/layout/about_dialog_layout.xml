@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical" android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/about_dialog_background">
+
+        <TextView
+            android:id="@+id/about_dialog_textview_title"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_alignParentTop="true"
+            android:text="About"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="5dp"
+            android:background="@color/grey30"
+            android:padding="10dp"
+            android:textSize="@dimen/about_dialog_title"
+            android:textStyle="bold"
+            android:textColor="@color/gosh_while"/>
+        <TextView
+            android:id="@+id/about_dialog_textview_subject"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:layout_marginBottom="10dp"
+            android:padding="10dp"
+            android:lineSpacingMultiplier="1.2"
+            android:lineSpacingExtra="5dp"
+            android:textSize="@dimen/about_dialog_subject"
+            android:text="@string/about_subject"
+            android:layout_below="@id/about_dialog_textview_title"
+            android:textColor="@android:color/black"
+            />
+        <android.support.design.widget.FloatingActionButton
+            android:id="@+id/about_dialog_button_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:fabSize="mini"
+            android:src="@drawable/ic_cancel"
+            android:layout_centerHorizontal="true"
+            android:layout_below="@id/about_dialog_textview_subject"
+            android:layout_margin="8dp"
+            />
+</RelativeLayout>
